@@ -1,25 +1,11 @@
 
-.header, .navi, .contents, .footer {
-  padding-top : 10px;
+.hheader,nav,main,footer {
   color:#fff;
+  padding:20px;
 }
 
-.header {
+header {
   height:100px;
-  background-color:#C04E3F;
+  background-color:#C04E3F ;
 }
 
-.navi {
-  height:80px;
-  background-color:#5C85D6
-}
-
-.contents {
-  height:400px;
-  background-color:#F4A04B
-}
-
-.footer {
-  height:60px;
-  background-color:#4BAE94;
-}
